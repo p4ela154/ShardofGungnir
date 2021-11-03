@@ -1,0 +1,12 @@
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\ShardofGungnir.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\ShardofGungnir.pdb
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\0Harmony.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\assembly_valheim.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\BepInEx.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\Jotunn.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\bin\Debug\UnityEngine.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\obj\Debug\ShardofGungnir.csproj.AssemblyReference.cache
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\obj\Debug\ShardofGungnir.csproj.CoreCompileInputs.cache
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\obj\Debug\ShardofGungnir.dll
+C:\Users\ytka1\source\repos\ShardofGungnir\ShardofGungnir\obj\Debug\ShardofGungnir.pdb
