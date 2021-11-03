@@ -50,6 +50,7 @@ namespace ShardofGungnir
                             Name = "SE",
                             SourcePrefab = "fx_Lightning",
                             SourcePath = "Sparcs",
+                            TargetParentPath = "attach",
                             Position = new Vector3(0, 0, 0.7f),
                             Rotation = Quaternion.Euler(-0, 0, 0),
                             Scale = new Vector3(0.3f, 0.3f, 0.3f)
@@ -59,6 +60,7 @@ namespace ShardofGungnir
                             Name = "SE",
                             SourcePrefab = "fx_Lightning",
                             SourcePath = "sfx",
+                            TargetParentPath = "attach",
                             Position = new Vector3(0, 0, 0.7f),
                             Rotation = Quaternion.Euler(-0, 0, 0),
                             Scale = new Vector3(0.2f, 0.2f, 0.2f)
@@ -69,6 +71,7 @@ namespace ShardofGungnir
                             Name = "SE",
                             SourcePrefab = "fx_Lightning",
                             SourcePath = "Point light (1)",
+                            TargetParentPath = "attach",
                             Position = new Vector3(0, 0, 0.7f),
                             Rotation = Quaternion.Euler(-0, 0, 0),
                             Scale = new Vector3(0.4f, 0.4f, 0.4f)
@@ -77,7 +80,7 @@ namespace ShardofGungnir
 
                 }
                 ) ;
-                KitbashSourceConfig CIK = ;
+               
                 KitbashManager.Instance.AddKitbash(CIP.ItemPrefab, new KitbashConfig
                 {
                     Layer = "piece",
